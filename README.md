@@ -65,7 +65,7 @@
 
 ## 関連リンク
 
-- [地域データ置き場（磐田決算のサイト内）](https://kaopuuu-hash.github.io/secret-base/data.html) — 地域データの置き場ページ。本リポジトリはこのページと相互にリンクしています
+- [地域データ置き場（磐田決算のサイト内）](https://toshio-lab.github.io/secret-base/data.html) — 地域データの置き場ページ。本リポジトリはこのページと相互にリンクしています
 
 ## ライセンス
 

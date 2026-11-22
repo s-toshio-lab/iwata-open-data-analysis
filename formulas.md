@@ -227,4 +227,4 @@ CVは地域別データが複数ある場合に使用します。
 5.  元データに存在しない値を推測で補完しない。
 6.  算出値には使用データ・出典・計算条件を記録する。
 7.  相関は因果関係を意味しない。
-[← ホームページのデータ置き場へ](https://kaopuuu-hash.github.io/secret-base/data.html)
+[← ホームページのデータ置き場へ](https://toshio-lab.github.io/secret-base/data.html)
