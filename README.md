@@ -65,9 +65,6 @@
 - [iwata_gis_map.html](reports/iwata_gis_map.html)（GISマップ v1）と [iwata_gis_prototype.html](reports/iwata_gis_prototype.html)（試作版）
 - v1レポート一式は `reports/_archive/` にあります
 
-## 関連リンク
-
-
 ## ライセンス
 
 収録データは各出典の利用条件に従います（例：仮想街いわた 公共施設情報は CC BY 3.0、出典は各 metadata に記載）。
